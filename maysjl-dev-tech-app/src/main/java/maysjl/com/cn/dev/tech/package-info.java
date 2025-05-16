@@ -1,4 +1,4 @@
-package maysjl.com.cn.dev.tech.app;/**
+package maysjl.com.cn.dev.tech;/**
  * @program: AI-RAG
  * @description: 2
  * @author: May's_JL
